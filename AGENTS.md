@@ -53,3 +53,5 @@ Right-side interactive menu: lists live scene interactions by category (55 curre
 Global language switch: room-i18n.js is bundled before scene-app.js by build.cjs. One selected language at a time, persistent kino-language setting; scene canvas labels and all interface dialogs follow it. Preserve original PDF/image/website source content and visitor-written messages. New UI strings need Chinese/English entries. Language buttons remain accessible inside modal dialogs; desktop and 360px verified.
 
 Neon title is a horizontal 3D wall-mounted sign above the bookcase at (-4.045,4.72,-1.12), facing into the room. No floating webpage title. Bookcase top arch removed; preserve pastel breathing neon, bilingual text, and reduced-motion behavior.
+
+Neon refinement: rounded perimeter has 36 coloured tube segments with layered halos, continuously cycling pastel pink/purple/white/green/yellow/blue and staggered brightness pulses. Keep readable glowing title and reduced-motion static palette.
