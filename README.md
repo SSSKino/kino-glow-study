@@ -9,6 +9,7 @@
 ## 修改与构建
 
 - `scene-app.js`：场景、交互、响应式界面和内嵌媒体资源。
+- `room-i18n.js`：统一中英文切换、界面翻译与场景标签翻译。
 - `page-shell.html`：页面头部和二维加载动画。
 - `three-inline.tmp.js`：随网页打包的 Three.js。
 - `assets/audio/credits.json`、`assets/fonts/`：音频来源和字体授权说明。
@@ -28,3 +29,5 @@ node build.cjs
 ## 素材来源
 
 音频来源和授权信息保留在网页唱片面板及 `assets/audio/credits.json` 中。字体说明见 `assets/fonts/`。个人照片、简历、原创歌词和用户提供的音频属于其各自权利人；本仓库未为这些素材授予统一开源许可。Three.js 保留其内嵌 MIT 许可声明。
+
+右下角可切换中文 / English，选择会保存在当前浏览器。弹窗内也可以切换。原始简历 PDF、证书、照片及外部网页预览保留原件语言。
