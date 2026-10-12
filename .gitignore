@@ -1,0 +1,20 @@
+# Publish only the current website and its build inputs.
+/*
+!/.gitignore
+!/README.md
+!/AGENTS.md
+!/build.cjs
+!/page-shell.html
+!/pastel-study.html
+!/scene-app.js
+!/three-inline.tmp.js
+!/assets/
+/assets/*
+!/assets/audio/
+/assets/audio/*
+!/assets/audio/credits.json
+!/assets/fonts/
+/assets/fonts/*
+!/assets/fonts/ComingSoon-LICENSE.txt
+!/assets/fonts/FingerPaint-OFL.txt
+!/assets/fonts/font-licenses.json

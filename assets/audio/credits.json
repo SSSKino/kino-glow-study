@@ -1,0 +1,73 @@
+[
+  {
+    "id": "bg0",
+    "title": "Carefree",
+    "kind": "background",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037"
+  },
+  {
+    "id": "bg1",
+    "title": "Life of Riley",
+    "kind": "background",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400054"
+  },
+  {
+    "id": "bg2",
+    "title": "Wallpaper",
+    "kind": "background",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100843"
+  },
+  {
+    "id": "elise",
+    "title": "致爱丽丝",
+    "kind": "score",
+    "credit": "Ludwig van Beethoven · piano: V. Gao",
+    "license": "CC0 / Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:FurElise.ogg"
+  },
+  {
+    "id": "campanella",
+    "title": "钟",
+    "kind": "score",
+    "credit": "Franz Liszt · piano: Romuald Greiss (2000)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Liszt-La_Campanella-Greiss.ogg"
+  },
+  {
+    "id": "qinggui",
+    "title": "情归",
+    "kind": "record"
+  },
+  {
+    "id": "yueluo",
+    "title": "月落听风",
+    "kind": "record"
+  },
+  {
+    "id": "clouds",
+    "title": "彩云追月",
+    "kind": "piano",
+    "credit": "Yundi Li",
+    "source": "https://www.youtube.com/watch?v=Z-EZTdVJmVQ",
+    "license": "User-selected recording; no open license asserted"
+  },
+  {
+    "id": "butterfly",
+    "title": "梁祝",
+    "kind": "piano",
+    "credit": "Richard Clayderman",
+    "source": "https://www.youtube.com/watch?v=12q1nUjwjqg&t=113s",
+    "startSeconds": 113,
+    "license": "User-selected recording; no open license asserted"
+  }
+]
