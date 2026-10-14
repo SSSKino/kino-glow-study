@@ -31,3 +31,6 @@ node build.cjs
 音频来源和授权信息保留在网页唱片面板及 `assets/audio/credits.json` 中。字体说明见 `assets/fonts/`。个人照片、简历、原创歌词和用户提供的音频属于其各自权利人；本仓库未为这些素材授予统一开源许可。Three.js 保留其内嵌 MIT 许可声明。
 
 右下角可切换中文 / English，选择会保存在当前浏览器。弹窗内也可以切换。原始简历 PDF、证书、照片及外部网页预览保留原件语言。
+
+### Window photograph
+The window uses a photograph from [Morton: 49/1 Macquarie Street, Bennelong Apartments](https://www.morton.com.au/lease/nsw/sydney-city/sydney/residential/unit/8593362), embedded for the requested apartment-view reference. Photograph rights remain with its respective owner; it is not covered by any project code license. Camera movement gently adjusts the photographic framing; this is not a surveyed 3D reconstruction.
