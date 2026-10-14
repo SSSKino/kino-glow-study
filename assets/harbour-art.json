@@ -1,0 +1,7 @@
+{
+  "tool": "Built-in image_gen",
+  "asset": "harbour-pastel.webp (embedded in both builds)",
+  "reference": "https://www.morton.com.au/lease/nsw/sydney-city/sydney/residential/unit/8593362",
+  "prompt": "Edit the real Sydney harbour apartment photo into soft pastel gouache for a miniature lilac room. Preserve geography and silhouettes: Harbour Bridge on the left connected to both banks; Opera House at moderate distance on the right peninsula; foreground waterfront promenade. Remove foreground railing and right apartment wall. Landscape 3:2 panorama, cream shells, mint-blue water with soft ripples, lavender sky, powder pink and muted green. Detailed storybook style, no text, no invented landmarks. Keep enough sky and water for camera-responsive cropping.",
+  "integration": "Water/cloud motion is shader-based; framing follows the camera and direct window dragging. No full 3D reconstruction is implied."
+}
