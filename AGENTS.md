@@ -55,3 +55,5 @@ Global language switch: room-i18n.js is bundled before scene-app.js by build.cjs
 Neon title is a horizontal 3D wall-mounted sign above the bookcase at (-4.045,4.72,-1.12), facing into the room. No floating webpage title. Bookcase top arch removed; preserve pastel breathing neon, bilingual text, and reduced-motion behavior.
 
 Neon refinement: rounded perimeter has 36 coloured tube segments with layered halos, continuously cycling pastel pink/purple/white/green/yellow/blue and staggered brightness pulses. Keep readable glowing title and reduced-motion static palette.
+
+LED sign supersedes tube neon: coarse 128×28 circular-pixel matrix with muted pastel cycling and alternating perimeter pixels. No central halo, bloom or local point light. Keep bilingual text and reduced-motion static display. Loader girl now has rounded cheeks, a tiny curved nose, bright rounded eye and a smile.
